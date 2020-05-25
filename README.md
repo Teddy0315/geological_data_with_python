@@ -4,4 +4,5 @@
 
 수업은 다음과 같이 진행될 예정입니다.
 
-- Introduction
+- <a hredf = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/Introdcution.ipynb"> 0.Introduction 
+
