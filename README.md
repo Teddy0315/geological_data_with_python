@@ -8,3 +8,9 @@
 
   
 - <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/01_practice.ipynb"> 01_practice
+
+- <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/02_조건문.ipynb"> 02_조건문
+
+- <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/03_반복문.ipynb"> 03_반복문
+
+- <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/04_자료구조.ipynb"> 04_자료구조
