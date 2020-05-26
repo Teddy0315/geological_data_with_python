@@ -7,4 +7,4 @@
 - <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/00_Introdcution.ipynb"> 00_Introduction
 
   
-- <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/01_Introdcution.ipynb"> 01_practice
+- <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/01_practice.ipynb"> 01_practice
