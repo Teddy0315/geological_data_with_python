@@ -14,3 +14,7 @@
 - <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/03_반복문.ipynb"> 03_반복문
 
 - <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/04_자료구조.ipynb"> 04_자료구조
+
+- <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/05_Class.ipynb"> 05_Class
+
+- <a href = "https://github.com/Teddy0315/geological_data_with_python/blob/master/Notebook/06_pandas.ipynb"> 06_pandas
